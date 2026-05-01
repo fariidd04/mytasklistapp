@@ -107,9 +107,8 @@ MyTaskList-App/
 
 ---
 
-## 🔗 Links
+## 🔗 Live Demo
 
-- [GitHub ](https://github.com/fariidd04/mytasklistapp)
 - [Expo Snack](https://snack.expo.dev/@fariid.dd/mytasklistapp)
 
 ---
