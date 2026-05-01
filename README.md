@@ -54,7 +54,7 @@
 
 | Tampilan utama dengan daftar task | Filter Selesai aktif | Empty state |
 |---|---|---|
-| ![Login](./assets/fulltask.jpg) | ![Register](./assets/notask.jpg) | ![Home](./assets/homeee.jpg) |
+| ![Login](./assets/homeee.jpg) | ![Register](./assets/fulltask.jpg) | ![Home](./assets/notask.jpg) |
 
 ---
 
@@ -109,7 +109,7 @@ MyTaskList-App/
 
 ## 🔗 Links
 
-- [GitHub: ](https://github.com/fariidd04/mytasklistapp)
-- [Expo Snack:](https://snack.expo.dev/@fariid.dd/mytasklistapp)
+- [GitHub ](https://github.com/fariidd04/mytasklistapp)
+- [Expo Snack](https://snack.expo.dev/@fariid.dd/mytasklistapp)
 
 ---
