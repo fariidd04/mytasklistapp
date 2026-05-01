@@ -8,9 +8,9 @@
 
 | Field | Detail |
 |-------|--------|
-| Nama | [Muhammad Faried Permana] |
-| NIM  | [243303621239] |
-| Kelas | [4 Pagi A] |
+| Nama | Muhammad Faried Permana |
+| NIM  | 243303621239 |
+| Kelas | 4 Pagi A |
 
 ---
 
@@ -31,11 +31,11 @@
 - [x] ⑥ **Fitur CRUD** — Add task + Delete task (dengan konfirmasi Alert)
 
 ### Fitur Tambahan
-- [x] **+5** Mark as Done — Ketuk task untuk toggle selesai/belum selesai
-- [x] **+5** Prioritas Task — Tinggi (merah), Sedang (kuning), Rendah (hijau) dengan warna berbeda
-- [x] **+5** Counter "X task selesai dari Y total" + progress bar persentase
-- [x] **+5** Filter View — Tab Semua / Aktif / Selesai dengan badge count
-- [x] **+10** UI yang sangat rapi, konsisten, dan profesional (dark theme elegan)
+- [x] Mark as Done — Ketuk task untuk toggle selesai/belum selesai
+- [x] Prioritas Task — Tinggi (merah), Sedang (kuning), Rendah (hijau) dengan warna berbeda
+- [x] Counter "X task selesai dari Y total" + progress bar persentase
+- [x] Filter View — Tab Semua / Aktif / Selesai dengan badge count
+- [x] UI yang sangat rapi, konsisten, dan profesional (dark theme elegan)
 
 ---
 
@@ -69,7 +69,7 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/[username]/mytasklistapp.git
+git clone https://github.com/fariidd04/mytasklistapp.git
 cd mytasklistapp
 
 # 2. Install dependencies
@@ -109,7 +109,7 @@ MyTaskList-App/
 
 ## 🔗 Links
 
-- **GitHub**: https://github.com/fariidd04/mytasklistapp
-- **Expo Snack**: [https://snack.expo.dev/@fariid.dd/mytasklistapp]
+- [GitHub: ](https://github.com/fariidd04/mytasklistapp)
+- [Expo Snack:](https://snack.expo.dev/@fariid.dd/mytasklistapp)
 
 ---
